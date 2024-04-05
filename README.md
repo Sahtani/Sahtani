@@ -4,7 +4,7 @@
 - 🏫 I'm a Student at @YouCodeSchool
 - 💞️ I’m Always excited to learn new Things
 
-- :telescope: I’m currently working on <strong>PHP MVC</strong>
+- :telescope: I’m currently working on <strong>LARAVEL React Js</strong>
 ### 💻 Tech & Tools Preference
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,js,php,laravel,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,git,github,figma,xd)](https://skills.thijs.gg)
 
