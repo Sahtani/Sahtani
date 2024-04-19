@@ -6,7 +6,7 @@
 
 - :telescope: I’m currently working on <strong>LARAVEL React Js</strong>
 ### 💻 Tech & Tools Preference
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,js,php,laravel,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,git,github,figma,xd)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,js,php,laravel,reactjs,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,git,github,figma,xd)](https://skills.thijs.gg)
 
 
 
