@@ -1,14 +1,13 @@
 - 👋 Hi, I’m Soumia Sahtani
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learningJAVA  
 - 🏫 I'm a Student at @YouCodeSchool
 - 💞️ I’m Always excited to learn new Things
 
 - :telescope: I’m currently working on <strong>LARAVEL React Js</strong>
 ### 💻 Tech & Tools Preference
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,js,php,laravel,reactjs,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,git,github,figma,xd)](https://skills.thijs.gg)
 
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,laravel,reactjs,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,git,github,figma&theme=light)](https://skillicons.dev)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahtani&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
