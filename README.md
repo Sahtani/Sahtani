@@ -4,7 +4,7 @@
 - 🏫 I'm a Student at @YouCodeSchool
 - 💞️ I’m Always excited to learn new Things
 
-- :telescope: I’m currently working on <strong>LARAVEL React Js</strong>
+- :telescope: I’m currently working on <strong>Java EE</strong>
 ### 💻 Tech & Tools Preference
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,sass,js,php,laravel,reactjs,nodejs,postgresql,mongodb,bootstrap,mysql,tailwind,vscode,git,github,figma&theme=light)](https://skillicons.dev)
