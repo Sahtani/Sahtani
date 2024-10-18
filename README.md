@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumia Sahtani
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learningJAVA  
+- 🌱 I’m currently learning Spring data & Spring Ios 
 - 🏫 I'm a Student at @YouCodeSchool
 - 💞️ I’m Always excited to learn new Things
 
