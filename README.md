@@ -7,7 +7,7 @@
 - :telescope: I’m currently working on <strong>Java EE</strong>
 ### 💻 Tech & Tools Preference
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,sass,js,typescript,php,laravel,react,nodejs,postgresql,mongodb,bootstrap,mysql,tailwind,postman,vscode,git,github,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,sass,js,typescript,php,laravel,react,nodejs,postgresql,mongodb,bootstrap,mysql,tailwind,mockito,postman,vscode,git,github,figma&theme=light)](https://skillicons.dev)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahtani&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
