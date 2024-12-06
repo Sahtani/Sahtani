@@ -4,7 +4,7 @@
 - 🏫 I'm a Student at @YouCodeSchool
 - 💞️ I’m Always excited to learn new Things
 
-- :telescope: I’m currently working on <strong>Java EE</strong>
+- :telescope: I’m currently working on <strong>Spring Security</strong>
 ### 💻 Tech & Tools Preference
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,sass,js,typescript,php,laravel,react,nodejs,postgresql,mongodb,bootstrap,mysql,tailwind,postman,vscode,git,github,figma&theme=light)](https://skillicons.dev)
